@@ -1,4 +1,4 @@
-# Exercise 12 - Kubernetes Node NotReady (DiskPressure)
+#Kubernetes Node NotReady (DiskPressure)
 
 ## Objective
 
